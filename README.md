@@ -25,6 +25,22 @@ your familiarity with some of the content that is covered.
 Successful completion of this program requires a commitment to stay on pace, complete projects,
 and finish the program within 3 months. See more details in the program FAQ.
 
+# Program Instructors 
+**Josh Bernhard** - Data Scientist at Nerd Wallet
+Josh has been sharing his passion for data for nearly a decade at all levels of university, and as Lead Data Science Instructor at Galvanize. He's used data science for work ranging from cancer research to process automation.
+
+**Dana Sheahan** - Content Developer
+Dana is an electrical engineer with a Masters in Computer Science from Georgia Tech. Her work experience includes software development for embedded systems in the Automotive Group at Motorola, where she was awarded a patent for an onboard operating system.
+
+**Mat Leonard** - Instructor
+Mat is a former physicist, research neuroscientist, and data scientist. He did his PhD and Postdoctoral Fellowship at the University of California, Berkeley. 
+
+**Derek Steer** - CEO at Mode
+Derek is the CEO of Mode Analytics. He developed an analytical foundation at Facebook and Yammer and is passionate about sharing it with future analysts. He authored SQL School and is a mentor at Insight Data Science.
+
+**Sam Nelson** - Product Lead
+Sam is the Product Lead for Udacity’s Data Analyst, Business Analyst, and Data Foundations programs. He’s worked as an analytics consultant on projects in several industries, and is passionate about helping others improve their data skills.
+
 # Required Hardware
 Computer running OS X or Windows
 
