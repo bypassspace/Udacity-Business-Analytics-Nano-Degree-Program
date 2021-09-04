@@ -29,7 +29,7 @@ and finish the program within 3 months. See more details in the program FAQ.
 **1. Welcome to the Program**
 Meet your instructors and learn how to optimize your classroom. Learn how people use data to answer questions, and find your own insights from a data dashboard.
 
-<a href="www.github.com> <code>**Project I - Interpret a Data Visualization**</code></a>
+<a href="www.github.com"> <code>**Project I - Interpret a Data Visualization**</code></a>
 In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
 
 **2. Introduction to Data**
