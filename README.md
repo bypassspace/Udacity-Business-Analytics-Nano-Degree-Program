@@ -37,12 +37,18 @@ Learn how to use statistics and visuals to find and communicate insights. Develo
 
 <a href="www.github.com"><code>**Project II - Analyze NYSE Data**</code></a>
 In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
-SQL for Data Analysis
 
+**3. SQL for Data Analysis**
 Learn to use Structured Query Language (SQL) to extract and analyze data stored in databases.
-Data Visualization
 
+<a href="www.github.com"><code>**Project III - Query a Digital Music Store Database**</code></a>
+In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
+
+**4. Data Visualization**
 Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
+
+<a href="www.github.com"><code>**Project IV - Build Data Dashboards**</code></a>
+In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
 
 # Program Instructors 
 **Josh Bernhard** - Data Scientist at Nerd Wallet
