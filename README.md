@@ -74,3 +74,6 @@ Tableau Public 2019.3 or Latest
 DB Browser for SQlite 3.11.2 or LatestVersion: 4.0.0
 
 # Length of Program: 67 Days*
+
+# Contact Info
+While going through the program, if you have questions about anything, you can reach us at bizanalyticssupport@udacity.com. For help from Udacity Mentors and your peers visit the Udacity Classroom.
