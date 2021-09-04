@@ -26,13 +26,17 @@ Successful completion of this program requires a commitment to stay on pace, com
 and finish the program within 3 months. See more details in the program FAQ.
 
 # Program Details
-**Welcome to the Program**
+**1. Welcome to the Program**
 Meet your instructors and learn how to optimize your classroom. Learn how people use data to answer questions, and find your own insights from a data dashboard.
-**Project - Interpret a Data Visualization**
 
-In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.**Project I - Introduction to Data**
+**Project I - Interpret a Data Visualization**
+In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
 
+**2. Introduction to Data**
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
+
+**Project II - Analyze NYSE Data**
+In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
 SQL for Data Analysis
 
 Learn to use Structured Query Language (SQL) to extract and analyze data stored in databases.
