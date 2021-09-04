@@ -66,14 +66,12 @@ Derek is the CEO of Mode Analytics. He developed an analytical foundation at Fac
 **Sam Nelson** - Product Lead
 Sam is the Product Lead for Udacity’s Data Analyst, Business Analyst, and Data Foundations programs. He’s worked as an analytics consultant on projects in several industries, and is passionate about helping others improve their data skills.
 
-# Required Hardware
-Computer running OS X or Windows
-
 # Required Software
-Tableau Public 2019.3 or Latest
-DB Browser for SQlite 3.11.2 or LatestVersion: 4.0.0
+- Tableau Public 2019.3 or Latest
+- DB Browser for SQlite 3.11.2 or LatestVersion: 4.0.0
+- Microsoft Excel 
 
-# Length of Program: 67 Days*
+# Length of Program/Duration: 67 Days*
 
 # Certificate of Completion 
 Verified certificate of completion can be accessible through this link : https://confirm.udacity.com/DSVPDHHQ 
