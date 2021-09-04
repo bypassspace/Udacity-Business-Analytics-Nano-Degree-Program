@@ -25,6 +25,21 @@ your familiarity with some of the content that is covered.
 Successful completion of this program requires a commitment to stay on pace, complete projects,
 and finish the program within 3 months. See more details in the program FAQ.
 
+# Program Details
+**Welcome to the Program**
+Meet your instructors and learn how to optimize your classroom. Learn how people use data to answer questions, and find your own insights from a data dashboard.
+**Project - Interpret a Data Visualization**
+
+In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.**Project I - Introduction to Data**
+
+Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
+SQL for Data Analysis
+
+Learn to use Structured Query Language (SQL) to extract and analyze data stored in databases.
+Data Visualization
+
+Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
+
 # Program Instructors 
 **Josh Bernhard** - Data Scientist at Nerd Wallet
 Josh has been sharing his passion for data for nearly a decade at all levels of university, and as Lead Data Science Instructor at Galvanize. He's used data science for work ranging from cancer research to process automation.
